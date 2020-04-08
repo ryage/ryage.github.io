@@ -24,9 +24,9 @@ exclude:
   - Gemfile.lock
   - README.md
   - newpost.rb
-  - CNAME
+#  - CNAME
 header_pages:
-  - apps.md
+  # - apps.md
   - tag.md
   - category.md
   - archive.md
