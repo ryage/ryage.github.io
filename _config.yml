@@ -5,17 +5,16 @@ markdown:         kramdown
 permalink:        /:year/:month/:day/:title/
 
 # Setup
-title:            如是我聞
-description:      Keep Calm and Shoot Photos
-url:              http://ztpala.com
-domain:           ztpala.com
-email:            ztpala@gmail.com
-twitter_username: ztpala
-github_username:  pala
-github_repo:      https://github.com/pala/pala.github.io
-google_analytics: UA-5531632-1
+title:            RYE Pages
+description:      Exploring
+# domain:           ztpala.com
+email:            r207ye@gmail.com
+twitter_username: fayefayeVLT
+github_username:  ryage
+github_repo:      https://github.com/ryage/ryage.github.io
+# google_analytics: UA-5531632-1
 timezone:         America/New_York
-subscribe:        http://feed.ztpala.com
+# subscribe:        http://feed.ztpala.com
 baseurl: ""
 theme: minima
 plugins:
