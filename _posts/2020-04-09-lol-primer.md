@@ -65,3 +65,4 @@ Reddit, [r/summonerschool](https://www.reddit.com/r/summonerschool/)
 
 ## Resources
 
+（未完待续）
