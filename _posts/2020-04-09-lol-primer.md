@@ -10,6 +10,9 @@ categories:
     - 游戏
 ---
 
+
+单从游戏性上来讲，英雄联盟并不如一些 RPG 好玩，而且需要持续的练习以及学习才可以熟悉以及提高操作。有些歌很好听。社区 (community) 氛围不错，指 reddit。游戏里特别是单双排(soloq) 就特别 toxic，所以不少人建议直接全部静音（队友以及对手）。
+
 # Resources: 
 Reddit, [r/summonerschool](https://www.reddit.com/r/summonerschool/)
 
